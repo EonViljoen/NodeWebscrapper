@@ -1,0 +1,25 @@
+{
+  "name": "NodeWebscrapper",
+  "version": "1.0.0",
+  "description": "Simple webscrapper written in NodeJS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EonViljoen/NodeWebscrapper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EonViljoen/NodeWebscrapper/issues"
+  },
+  "homepage": "https://github.com/EonViljoen/NodeWebscrapper#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.1.1"
+  }
+}
